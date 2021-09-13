@@ -2,8 +2,8 @@
 
 [My Linkedin Profile](https://www.linkedin.com/in/norapat-buppodom/)
 
-[![new5558's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=new5558&country_code=thailand&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
+[![Norapat's github stats](https://github-readme-stats.vercel.app/api?username=new5558&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **new5558/new5558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
