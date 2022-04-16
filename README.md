@@ -35,15 +35,16 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 - Computer Vision
   - 🧠 Intracranial Hemorrhage Image Classification
   - 🅵 Font Classification: Thai font
-  - 📷 Object Detection: Underwater object
+  - 🔢 Handwritten digit recognition: [Project Repo](https://github.com/new5558/superai-handwritten-digit-hackathon-solution)
+  - 📷 Object Detection: Underwater object: [Project Repo](https://github.com/new5558/arv-hackaton-deployment)
   - 🥘 Thai Food Image Classificaiton
   - 🏠 House price image prediction
 
 - Natural Language Processing
   - 🌍 Machine Translation: Thai - English
   - 🗽 Named-entity Recognition: Thai wikipedia
-  - 🤷‍♀️ Text Calssification: Chula course faculty
-  - 📚 Semantic textual similarity: Chula course description with Sentence transformeres
+  - 🤷‍♀️ Text Calssification: Chula course faculty: [Demo Repo](https://github.com/new5558/chula-course-faculty-prediction-demo)
+  - 📚 Semantic textual similarity: Chula course description with Sentence transformeres: [Demo Repo](https://github.com/new5558/chula-course-recommender-demo)
 
 - Time series
   - 📈 Stock Price Action Classification
@@ -51,15 +52,17 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
   - 🏭 Predictive Maintenance
 
 - Others
-  - 🎮 Recommender System: CU GetReg website
+  - 🎮 Recommender System: [CU GetReg website](www.cugetreg.com)
   - 🚀 Model Deployment: ONNX, Quantization, and Triton Inference server
-  - 🆎 AB Testing: CU GetReg website
+  - 🆎 AB Testing: CU GetReg website](www.cugetreg.com)
 
 ### My Software Development expriences
-- 🩸 Lead Frontend Developer of CU Blood 2018 website
-- 🧑‍💻 Frontend developer of Bangkok Javascript 1.0.0 companion web app
-- 🦠 Backend developer of Covid Self Check Application (เพื่อนช่วยเช็ค)
-- 📚 Frontend developer of CU Getreg website
+- 🧑‍💻 Frontend developer of [Bangkok Javascript 1.0.0 companion web app](https://github.com/thinc-org/JS-BKK-Front)
+- 📖 Frontend developer of [Open Registration website](https://github.com/thinc-org/open-reg-frontend)
+- 🦠 Backend developer of [Covid Self Check Application (เพื่อนช่วยเช็ค)](https://github.com/covid-self-check/covid-self-check-backend)
+- 📚 Frontend developer of [CU Getreg website](https://github.com/thinc-org/cugetreg-frontend)
+- 🩸 Lead Frontend Developer of [CU Blood 2018 website](https://github.com/thinc-org/Cu-Blood-FrontEnd)
+- 🌍 Full stack developer and ML Engineer of [CU Onepass project](https://github.com/hu-tao-supremacy)
 
 ### Internships
 - Frontend Engineer: _LINE MAN Wongnai_  <img src="https://user-images.githubusercontent.com/12471844/163691062-4ef57480-82b0-4fc8-bd30-8faff5953d75.svg" width="20" height="20"> <img src="https://user-images.githubusercontent.com/12471844/163691063-54886c7e-7d17-42da-91cf-7b5c4e17b448.svg" width="20" height="20">
