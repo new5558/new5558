@@ -71,6 +71,7 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 ### Status
 [![Norapat's github stats](https://github-readme-stats.vercel.app/api?username=new5558&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new5558&layout=compact&langs_count=6&theme=dracula)](https://github.com/new5558)
 
+![Profile view](https://komarev.com/ghpvc/?username=new5558)
 
 <!--
 **new5558/new5558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
