@@ -9,7 +9,7 @@
 - 🏫 Science major at Satit Prasarnmit Demonstration School (Secondary) G57, G58
 - 🇨🇳 Exchange student at Jiujiang Foreign Language School, 2014-2015
 - 🎓 Comminication and Information engineering (ICE) student at Chulalongkorn university
-- 🎙 I spoke in Thai 🇹🇭 (Native), English 󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧 (Working proficiency) and, Chinese 🇨🇳 (Conversational)
+- 🎙 I speak in Thai 🇹🇭 (Native), English 󠁧󠁢󠁥󠁮󠁧󠁿🇬🇧 (Working proficiency) and, Chinese 🇨🇳 (Conversational)
 - 🛩 I love traveling. One of my dreams is to travel to every Continient
 - 📚 I also love reading books, Here is my [Goodreads](https://www.goodreads.com/user/show/110601810-norapat-buppodom) account
 
@@ -52,9 +52,9 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
   - 🏭 Predictive Maintenance
 
 - Others
-  - 🎮 Recommender System: [CU GetReg website](www.cugetreg.com)
+  - 🎮 Recommender System: [CU GetReg website](https://cugetreg.com/)
   - 🚀 Model Deployment: ONNX, Quantization, and Triton Inference server
-  - 🆎 AB Testing: [CU GetReg website](www.cugetreg.com)
+  - 🆎 AB Testing: [CU GetReg website](https://cugetreg.com/)
 
 ### My Software Development expriences
 - 🧑‍💻 Frontend developer of [Bangkok Javascript 1.0.0 companion web app](https://github.com/thinc-org/JS-BKK-Front)
