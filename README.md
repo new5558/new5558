@@ -54,7 +54,7 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 - Others
   - 🎮 Recommender System: [CU GetReg website](www.cugetreg.com)
   - 🚀 Model Deployment: ONNX, Quantization, and Triton Inference server
-  - 🆎 AB Testing: CU GetReg website](www.cugetreg.com)
+  - 🆎 AB Testing: [CU GetReg website](www.cugetreg.com)
 
 ### My Software Development expriences
 - 🧑‍💻 Frontend developer of [Bangkok Javascript 1.0.0 companion web app](https://github.com/thinc-org/JS-BKK-Front)
@@ -69,7 +69,7 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 - Data Scientist: _Agoda_   <img src="https://user-images.githubusercontent.com/12471844/163691140-11b61c34-b377-4efc-82b1-e3db7ef2aea6.svg" width="50" height="20"> 
 
 ### Status
-[![Norapat's github stats](https://github-readme-stats.vercel.app/api?username=new5558&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new5558&layout=compact&langs_count=6)](https://github.com/new5558)
+[![Norapat's github stats](https://github-readme-stats.vercel.app/api?username=new5558&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new5558&layout=compact&langs_count=6&theme=dracula)](https://github.com/new5558)
 
 
 <!--
