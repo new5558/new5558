@@ -18,7 +18,7 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 ### Skills and Tools
 <details>
 <summary> 
-Toggle
+⭕ Click Me ⭕
 </summary>
 
 #### Programming languages
@@ -40,7 +40,7 @@ Toggle
 ### My Machine Learning experiences 
 <details>
 <summary> 
-Toggle
+⭕ Click Me ⭕
 </summary>
 
 #### Computer Vision    
@@ -80,7 +80,7 @@ Topic | Dataset | Description | Year | Code
 ### My Software Development experiences
 <details>
 <summary> 
-Toggle
+⭕ Click Me ⭕
 </summary>
     
 - 🧑‍💻 Frontend developer of [Bangkok Javascript 1.0.0 companion web app](https://github.com/thinc-org/JS-BKK-Front)
