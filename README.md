@@ -16,6 +16,11 @@
 You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norapat-buppodom/)
 
 ### Skills and Tools
+<details>
+<summary> 
+Toggle
+</summary>
+
 #### Programming languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
@@ -30,9 +35,15 @@ You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%23007
 
 #### Data Science
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 	![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+</details>
 
-### My Machine Learning experiences
-#### Computer Vision
+### My Machine Learning experiences 
+<details>
+<summary> 
+Toggle
+</summary>
+
+#### Computer Vision    
 Topic | Dataset | Description | Year | Code
 ------| ------- | ----------- | ---- | -----
 🅵 Font Classification  | Thai Fonts (Private) | Fine-tuned multi-task ResNet50, EfficientNetV2, and Vision Transformer models to classify Thai fonts | 2022 | Coming soon
@@ -64,13 +75,21 @@ Topic | Dataset | Description | Year | Code
 🆎 AB Testing | CU GetReg Click Stream data (Private) | Created a successful experiment between Random and Cosine variants of recommender systems | 2022 |  [CU GetReg website](https://cugetreg.com/)
 🎮 Recommender System | CU GetReg Click Stream data (Private) | Created courses recommender system based on users' add course history | 2021 | [CU GetReg website](https://cugetreg.com/), [Deployment repo](https://github.com/thinc-org/cugetreg-computation)
 
+</details>
+
 ### My Software Development experiences
+<details>
+<summary> 
+Toggle
+</summary>
+    
 - 🧑‍💻 Frontend developer of [Bangkok Javascript 1.0.0 companion web app](https://github.com/thinc-org/JS-BKK-Front)
 - 📖 Frontend developer of [Open Registration website](https://github.com/thinc-org/open-reg-frontend)
 - 🦠 Backend developer of [Covid Self Check Application (เพื่อนช่วยเช็ค)](https://github.com/covid-self-check/covid-self-check-backend)
 - 📚 Frontend developer of [CU Getreg website](https://github.com/thinc-org/cugetreg-frontend)
 - 🩸 Lead Frontend Developer of [CU Blood 2018 website](https://github.com/thinc-org/Cu-Blood-FrontEnd)
 - 🌍 Full stack developer and ML Engineer of [CU Onepass project](https://github.com/hu-tao-supremacy)
+</details>
 
 ### Internships
 - Frontend Engineer: _LINE MAN Wongnai_  <img src="https://user-images.githubusercontent.com/12471844/163691062-4ef57480-82b0-4fc8-bd30-8faff5953d75.svg" width="20" height="20"> <img src="https://user-images.githubusercontent.com/12471844/163691063-54886c7e-7d17-42da-91cf-7b5c4e17b448.svg" width="20" height="20">
