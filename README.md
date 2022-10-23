@@ -13,6 +13,7 @@
 - 🛩 I love traveling. One of my dreams is to travel to every Continent
 - 📚 I also love reading books, Here is my [Goodreads account](https://www.goodreads.com/user/show/110601810-norapat-buppodom)
 
+You can contact me on  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norapat-buppodom/)
 
 ### Skills and Tools
 <details>
