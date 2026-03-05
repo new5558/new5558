@@ -1,10 +1,5 @@
 ### Hi, I am Norapat Buppodom
 
-<!-- ![Profile](https://user-images.githubusercontent.com/12471844/163690274-a9b3e21b-216d-4367-962c-abef1def794d.jpeg | width=100) -->
-<img src="https://user-images.githubusercontent.com/12471844/163690274-a9b3e21b-216d-4367-962c-abef1def794d.jpeg" width="200" height="200">
-
-###### Thank you JoJoGan for the image   [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/akhaliq/JoJoGAN)
-
 ### About me
 - 🏫 Science major at Satit Prasarnmit Demonstration School (Secondary) G57 & G58, 2011-2018
 - 🇨🇳 Exchange student at Jiujiang Foreign Language School, AFS54, 2014-2015
